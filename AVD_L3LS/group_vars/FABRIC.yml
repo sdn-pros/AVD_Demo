@@ -28,7 +28,7 @@ spine:
     - name: spine3
       id: 13
       mgmt_ip: 192.168.0.13/24
-    - name: spine3
+    - name: spine4
       id: 14
       mgmt_ip: 192.168.0.14/24
 
